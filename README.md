@@ -5,7 +5,7 @@
 
 ## Links
 
-### Live App Deployment [here](http://169.51.207.195:32478)
+### Live App Deployment http://169.51.207.195:32478/ [here](http://169.51.207.195:32478/)
 
 ### Demo Link 
 
